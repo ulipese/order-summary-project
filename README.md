@@ -22,8 +22,8 @@
 ![](design/my-result.png)
 
 ### Demo
-<iframe href="https://ulipese.github.io/order-summary-project/" height="200" width="300" title="Order Summary Demo">
-</iframe>
+
+![](https://ulipese.github.io/order-summary-project/)
 
 ## My process
 
