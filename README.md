@@ -23,7 +23,7 @@
 
 ### Demo
 
-![](https://ulipese.github.io/order-summary-project/)
+![See the demo here](https://ulipese.github.io/order-summary-project/)
 
 ## My process
 
