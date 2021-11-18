@@ -14,7 +14,7 @@
 
 ### The challenge
 
-  -Create the site as close as possible
+  -Create the site as close as possible <br>
   -Use Sass to learn more
 
 ### Screenshot
