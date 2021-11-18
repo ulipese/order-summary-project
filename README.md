@@ -19,7 +19,7 @@
 
 ### Screenshot
 
-![](./assets/images/my-result.png)
+![](design/my-result.png)
 
 
 ## My process
