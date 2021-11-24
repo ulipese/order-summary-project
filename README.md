@@ -3,6 +3,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Demo](#demo)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -14,13 +15,16 @@
 
 ### The challenge
 
-  -Create the site as close as possible
+  -Create the site as close as possible <br>
   -Use Sass to learn more
 
 ### Screenshot
 
-![](./assets/images/my-result.png)
+![](design/my-result.png)
 
+### Demo
+
+<a href="https://ulipese.github.io/order-summary-project/">See the demo here</a>
 
 ## My process
 
