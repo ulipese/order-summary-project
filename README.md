@@ -51,6 +51,6 @@ I learn to use the basic of Grid and Sass.
 
 ## Author
 
-- Website - [Felipe Sousa](https://www.github/.com/ulipese)
+- Website - [Felipe Sousa](https://www.github.com/ulipese)
 - Frontend Mentor - [@ulipese](https://www.frontendmentor.io/profile/ulipese)
 - Twitter - [@ulipese](https://www.twitter.com/ulipese)
